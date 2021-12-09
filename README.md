@@ -11,7 +11,9 @@ This Nanodegree program is to gain foundational data skills applicable to any in
 > In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
  
  [Link to report](https://github.com/Waelgs9/Business_Analytics_Nanodegree/tree/main/Project%201:%20Interpret%20a%20Data%20Visualization)
-
+ 
+[Data used](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true
+)
 
 ## **Introducton to Data** - Project 2: Analyze NYSE Data
 > In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
