@@ -27,7 +27,7 @@ This Nanodegree program is to gain foundational data skills applicable to any in
 
 [Link to report](https://github.com/Waelgs9/Business_Analytics_Nanodegree/tree/main/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database)
 
-[Database used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/chinook.db)
+[Database used](https://github.com/Waelgs9/Business_Analytics_Nanodegree/blob/main/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/chinook.db)
 
 [Queries used](https://github.com/kev1nch0e/Udacity-Business-Analytics/tree/master/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/SQL%20Queries)
 
