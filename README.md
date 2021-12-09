@@ -10,9 +10,8 @@ This Nanodegree program is to gain foundational data skills applicable to any in
 ## **Welcome to the Program** - Project 1: Interpret a Data Visualization
 > In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
  
- [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%201:%20Interpret%20a%20Data%20Visualization/Report.pdf)
+ [Link to report](https://github.com/Waelgs9/Business_Analytics_Nanodegree/tree/main/Project%201:%20Interpret%20a%20Data%20Visualization)
 
-[Data used](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
 ## **Introducton to Data** - Project 2: Analyze NYSE Data
 > In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
