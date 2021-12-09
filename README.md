@@ -25,7 +25,7 @@ This Nanodegree program is to gain foundational data skills applicable to any in
 ## **SQL for Data Analysis** - Project 3: Query Digital Music Store Database
 > In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
-[Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/Final%20Report.pdf)
+[Link to report](https://github.com/Waelgs9/Business_Analytics_Nanodegree/tree/main/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database)
 
 [Database used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/chinook.db)
 
