@@ -18,9 +18,9 @@ This Nanodegree program is to gain foundational data skills applicable to any in
 ## **Introducton to Data** - Project 2: Analyze NYSE Data
 > In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
  
- [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%202:%20Analyze%20NYSE%20Data/Presentation.pdf)
+ [Link to report](https://github.com/Waelgs9/Business_Analytics_Nanodegree/tree/main/Project%202:%20Analyze%20NYSE%20Data)
 
-[Data used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%202:%20Analyze%20NYSE%20Data/NYSE-source-dataset.csv)
+[Data used](https://www.kaggle.com/dgawlik/nyse)
 
 ## **SQL for Data Analysis** - Project 3: Query Digital Music Store Database
 > In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
