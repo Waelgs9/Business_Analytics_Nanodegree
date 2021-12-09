@@ -34,7 +34,7 @@ This Nanodegree program is to gain foundational data skills applicable to any in
 ## **Data Visualization** - Project 4: Build Data Dashboards
 >In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
  
- [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%204:%20Build%20Data%20Dashboards/Tableau%20Report.pdf)
+ [Link to report](https://github.com/Waelgs9/Business_Analytics_Nanodegree/tree/main/Project%204:%20Build%20Data%20Dashboards)
 
-[Database used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%204:%20Build%20Data%20Dashboards/flight-delays.zip)
+[Database used](https://www.kaggle.com/usdot/flight-delays/data)
 
